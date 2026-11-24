@@ -61,3 +61,9 @@ flutter run
 ## Auteur
 
 Liliane Nfundiko
+
+## video demo
+
+
+https://github.com/user-attachments/assets/28f903b2-8edb-47c2-be28-455a7409bca7
+
